@@ -1,3 +1,4 @@
 # Scoppy
+### Raspberry Pi Pico Osilloscope
 ### Analog-Design-5
-Scoppy - Raspberry Pi Pico Osilloscope
+
