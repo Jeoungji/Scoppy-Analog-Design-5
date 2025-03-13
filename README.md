@@ -1,8 +1,17 @@
 # Scoppy
 ### Raspberry Pi Pico Osilloscope
 ### Analog-Design-5
-https://github.com/fhdm-dev/scoppy/discussions/63
-https://youtu.be/VVi2ylpizq4
+###### Original : https://github.com/fhdm-dev/scoppy/discussions/63
+###### Assamble : https://youtu.be/VVi2ylpizq4
+
+#### Voltage Range
+-7.05V ~ +6.60V
+
+#### Logic analysis GPIO pins must be modified
+- The logic analysis GPIO pins must be set from GP2 to GP9.
+- Any overlapping pins should be reassigned to other unused pins.
+- The TRIG pin is not an input.
+- The voltage range must be set from -7.05V to 6.60V.
 
 ![Case](Image/Case.PNG)
 
