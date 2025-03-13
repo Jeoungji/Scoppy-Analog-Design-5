@@ -20,8 +20,8 @@ https://youtu.be/VVi2ylpizq4
 |Pin Header Socket|2.54_1X2|HDR-F-2.54_1X2|2EA|
 |Pin Header Socket|2.54_1X2|2EA|
 |Pin Header Socket|2.54_1X2|1EA|
-|Diode|1N4148||4EA
-|resistance|470k||4EA|
-|resistance|220||2EA|
-|resistance|100||2EA|
+|Diode|1N4148| |4EA
+|resistance|470k| |4EA|
+|resistance|220| |2EA|
+|resistance|100| |2EA|
 |OP-Amp|MCP6002|PDIP-8|1EA|
