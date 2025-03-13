@@ -14,6 +14,7 @@ https://youtu.be/VVi2ylpizq4
 
 ## BOM
 |Ceramic Capacitor|100nF|CAP-TH_BD5.0-P2.00-D0.5-FD|1EA|
+|---|---|---|---|
 |Electrolytic Capacitor|10uF|CAP-TH_L5.0-W3.2-P5.00-D0.5|2EA|
 |Pin Header Socket|2.54_1X2|HDR-F-2.54_1X2|2EA|
 |Pin Header Socket|2.54_1X2|2EA|
