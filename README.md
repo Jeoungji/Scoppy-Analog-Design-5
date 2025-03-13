@@ -1,8 +1,8 @@
 # Scoppy
 ### Raspberry Pi Pico Osilloscope
 ### Analog-Design-5
-https://github.com/fhdm-dev/scoppy/discussions/63
-https://youtu.be/VVi2ylpizq4
+Original : https://github.com/fhdm-dev/scoppy/discussions/63
+Assamble : https://youtu.be/VVi2ylpizq4
 
 #### Voltage Range
 -7.05V ~ +6.60V
