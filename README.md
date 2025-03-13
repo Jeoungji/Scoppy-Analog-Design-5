@@ -25,3 +25,6 @@ https://youtu.be/VVi2ylpizq4
 |resistance|220| |2EA|
 |resistance|100| |2EA|
 |OP-Amp|MCP6002|PDIP-8|1EA|
+|Hex Socket Bolt|M3-8mm| |4EA|
+|Hex Socket Bolt|M2-10mm| |4EA|
+
