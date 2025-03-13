@@ -4,6 +4,12 @@
 https://github.com/fhdm-dev/scoppy/discussions/63
 https://youtu.be/VVi2ylpizq4
 
+#### Logic analysis GPIO pins must be modified
+- The logic analysis GPIO pins must be set from GP2 to GP9.
+- Any overlapping pins should be reassigned to other unused pins.
+- The TRIG pin is not an input.
+
+
 ![Case](Image/Case.PNG)
 
 
